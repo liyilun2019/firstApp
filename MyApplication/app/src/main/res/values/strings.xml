@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="button">press</string>
+    <string name="showImage">Show Image</string>
+    <string name="showGridView">Show Grid View</string>
+    <string name="changed_words">选项勾选</string>
+    <string name="helloworld">hello World</string>
+    <string name="clickbox">change words</string>
+    <string name="listView">Show List View</string>
+</resources>
